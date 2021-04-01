@@ -8,6 +8,7 @@
 <h1> fifthh heading added from unix
 <h5> sixth heading added from unix
 <h5> sixth heading added from windows
+<<<<<<< HEAD
 <h6> seventh heading added from windows 
 <h6> seventh heading added from unix
 <h7> eight heading added from windows
@@ -15,3 +16,6 @@
 <h9> tenth heading added from windows 
 <h10> tenth heading added from windows
 <h11> tenth heading added from window
+=======
+
+>>>>>>> bc653a601716a93cb54a02669bb4b4277e36619a
